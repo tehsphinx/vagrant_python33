@@ -4,6 +4,3 @@ DEBIAN_FRONTEND=noninteractive apt-get install -y --force-yes oracle-java7-insta
 
 apt-get install -y --force-yes elasticsearch 
 
-
-ludwigsplatz aposto 18:00
-ettlinger tor -- friedrichsplatz
